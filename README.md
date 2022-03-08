@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DorianBadel
-- 👀 I’m interested in programing
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on game development
